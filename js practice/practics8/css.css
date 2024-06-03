@@ -1,0 +1,12 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.bulb{
+ background-image: url(../practics8/image/a1.png);
+
+}
+.bulbcontainer{
+    height: 341px;
+    width: 341px;
+}
